@@ -1,7 +1,8 @@
 
-##WebShield General Privacy Policy##
+## WebShield General Privacy Policy
 
-**Effective Date: February 1, 2024**
+#### Effective Date: February 1, 2024
+
 We want you to understand how and why WebShield (“WS,” “we,” “us”) collects, and uses, information about you based on your consents.
 Before using the App, please read the following carefully to understand how we will treat your personal data.
 
