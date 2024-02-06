@@ -24,10 +24,11 @@ To comply with the law. We may in some cases need to process your personal data 
 To establish, exercise, or defend legal claims and for related purposes such as the prevention or detection of fraud where necessary.
 
 Unless otherwise indicated, there is typically no contractual or legal requirement to provide your personal data, however, if you do not provide it, then we may not be able to provide the App to you.
-##4. Sharing Your Data
+
+## 4. Sharing Your Data
 We will not disclose your personal data to others unless you consent to it, nor will we ever sell your personal data to advertisers.
 
-##5. Choices and Rights over your Personal Data
+## 5. Choices and Rights over your Personal Data
 
 You have a number of rights with respect to the personal data we have about you, which may be restricted by law. One key right is the right to ‘object’ to the processing of your personal data in certain circumstances (e.g., if we have no legal right to keep using it). You also have the right:
 
