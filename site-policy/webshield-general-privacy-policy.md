@@ -50,7 +50,7 @@ Note that the rights outlined above only extend to personal information.
 ## 6. Retention and Deletion
 We will keep your personal data only for as long as is reasonably necessary to provide the App to you and to fulfill the purposes described in this policy. When your personal data is no longer needed, we will destroy or irreversibly de-identify it.
 
-##7. Our Legal Bases
+## 7. Our Legal Bases
 
 We will collect, use and share your personal data only where we have a legal basis for doing so. This section explains the legal bases we rely on for processing personal data:
 
@@ -64,18 +64,18 @@ Contract Necessity. In some circumstances, we may need to process personal data 
 
 When processing sensitive personal data about you (such as personal data about your health), we may also rely on the fact that it is necessary for the establishment, exercise or defense of legal claims.
 
-##8. California Residents
+## 8. California Residents
 
 The California Consumer Protection Act (“CCPA”) gives consumers who are residents of California the right to request certain information from businesses about their data collection practices.
 
 In order to submit a CCPA request, please contact us at legal@thecommonsproject.org. Please include in your request sufficient information that allows us to reasonably verify that you are the person about whom we collected personal information. Please note that we do not sell your personal data and that WS will not discriminate against you in any way based on your exercise of these rights.
 
-##9. Other Important Information
+## 9. Other Important Information
 
 1. Security of Your Personal Data. Security of personal data is important to us. We implement security safeguards designed to protect your personal data. This includes safeguards to protect against anticipated threats or hazards to the security or integrity of the data, and to protect against unauthorized access, acquisition, leak, destruction, alteration, loss, disclosure or destruction. Despite these efforts, we cannot guarantee that your data may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or administrative safeguards. Please notify us immediately at jonathan@webshield.io if you become aware of any security issues relating to our App.
 
 2. Changes to This Privacy Policy. We evaluate our privacy policies and procedures to implement improvements and refinements from time to time. If we make any material changes to how we process your data, we’ll provide you notice through this Privacy Policy and by publishing a notice in the App. If you object to any changes, you may stop accessing the App or exercise other opt-outs or rights that we provide.
 
-3 Children. The App is not designed or intended to be directly used by children (as defined by applicable law). However, a guardian or parent of a child may choose to use a health provider to consent to the use of the App to create a SafetyPass certificate for their child. If we become aware that we have the personal data of such children collected through the App without parental consent, we will promptly delete it.
+3. Children. The App is not designed or intended to be directly used by children (as defined by applicable law). However, a guardian or parent of a child may choose to use a health provider to consent to the use of the App to create a SafetyPass certificate for their child. If we become aware that we have the personal data of such children collected through the App without parental consent, we will promptly delete it.
 
-**Contact Information: WebShield, 3040 Steiner Street, San Francisco, CA 94123**
+#### Contact Information: WebShield, 3040 Steiner Street, San Francisco, CA 94123
